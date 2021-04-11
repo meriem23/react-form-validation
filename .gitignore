@@ -4,6 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
+List.js
+apptest.js
+typescript
+styled
+theme
 
 # testing
 /coverage
